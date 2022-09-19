@@ -7,4 +7,4 @@
 # Who could it be?
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-![Etsy Logo](https://images.app.goo.gl/funbJ9XLQ9L9eFCZ6)
+![Etsy Logo](Etsy_logo.svg)
