@@ -1,4 +1,4 @@
-# Are you ready for another DevOps anecdote?
+# Another DevOps anecdote 🙄
 
 -  This eCommerce platform has 4.4 million sellers and 81.9 million buyers
 -  This gaint enables eCommerce on enormous scale for varoius arts and crafts communities accross globe
