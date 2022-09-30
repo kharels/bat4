@@ -4,7 +4,6 @@ plugins:
       lang: en
 theme: 
   name: material
-  logo: img/favicon.ico
   icon:
     repo: material/git
   palette:
