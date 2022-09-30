@@ -2,6 +2,8 @@
 
 ## Digital Factory and scale
 
+### Team introductions
+
 ![Digital Factory](digitalfactory.png)
 
 ### - What is Digital Factory?
