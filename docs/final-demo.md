@@ -26,11 +26,11 @@
 [Anisble Community of Practice at Gainwell](https://mygainwell.github.io/Ansible-CoP/)
 ## App pre-req scripts
 
-- Approach
+### - Approach
   - Make playbooks declarative
   - Identify all items that are needed for app installs to run without hiccup
 
-- Accomplishments
+### - Accomplishments
   - Automatic service accounts (in BT only, discussion to be furthered with security)
   - Automatic SQL Grants
   
