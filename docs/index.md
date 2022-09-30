@@ -5,7 +5,6 @@
 -  It saw massive growth and had to pivot several times during pandemic.
 
 # Who could it be?
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ![Etsy Logo](Etsy_logo.svg)
 
