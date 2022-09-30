@@ -2,22 +2,29 @@
 
 ## Digital Factory and scale
 
-- What is Digital Factory?
-
 ![Digital Factory](digitalfactory.png)
 
+- What is Digital Factory?
 - Challenges
-- At BAT 4
+  - Many tools and processes
+  - Multiple handoffs
+  - Automation silos causing repeat work
 
-- Current state
+- What did we do at Buildathon 4 for Digital Factory?
+  - Create reusable code
+  - Enabled features in tool to streamline developer experience
+  - Worked on getting closer to making automation whole
 
-# Community of practice (CoP)
+## -***-Demo From Jeremy-***-
+
+## Community of practice (CoP)
 
 - What is a CoP?
 - What's in it for me?
 - Fine, I get the idea, How do I become a member?
 
-# App pre-req scripts
+[Anisble Community of Practice at Gainwell](https://mygainwell.github.io/Ansible-CoP/)
+## App pre-req scripts
 
 - Approach
   - Make playbooks declarative
@@ -27,3 +34,4 @@
   - Automatic service accounts (in BT only, discussion to be furthered with security)
   - Automatic SQL Grants
   
+## -***- Demo from Ujit, Mike and SriHari -***-
