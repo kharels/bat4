@@ -4,13 +4,13 @@
 
 ![Digital Factory](digitalfactory.png)
 
-- What is Digital Factory?
-- Challenges
+### - What is Digital Factory?
+### - Challenges
   - Many tools and processes
   - Multiple handoffs
   - Automation silos causing repeat work
 
-- What did we do at Buildathon 4 for Digital Factory?
+### - What did we do at Buildathon 4 for Digital Factory?
   - Create reusable code
   - Enabled features in tool to streamline developer experience
   - Worked on getting closer to making automation whole
