@@ -1,4 +1,4 @@
-site_name: "Buildathon 4 demos"
+site_name: "Buildathon"
 plugins:
   - search:
       lang: en
