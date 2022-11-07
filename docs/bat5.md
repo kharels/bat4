@@ -14,26 +14,28 @@
     - Document 
   
 - **Automate everything**
-  - Infrastructure 
-  - Deployments 
-  - Testing 
-  - Releases 
+    - Infrastructure 
+    - Deployments 
+    - Testing 
+    - Releases 
   
 - **Security first approach**
-  - Static application security testing (SAST)
-  - Dynamic applicatin security testing (DAST)
-  - Clean as you code
+    - Static application security testing (SAST)
+    - Dynamic applicatin security testing (DAST)
+    - Clean as you code
   
 - **Monitor everything**
-  - Infrastructure 
-  - Application  
-  - Pipeline 
-  - performance 
+    - Infrastructure 
+    - Application  
+    - Pipeline 
+    - performance 
   
 - **Distinguish between release and deployments**
   
 - **Create collaborative culture**
-  - Lunch and Learns
-  - Communities of practice
+    - Lunch and Learns
+    - Communities of practice
 
 - **Emphasize customer satisfaction and gather feedback**
+
+## Remember, DevOps is a journey and NOT destination
