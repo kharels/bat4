@@ -2,6 +2,8 @@
 
 # BUT Lets talk about characteritics of companies that are generally successful in adopting DevOps 
 
+![DevOps transformation roadmap](devops-transformation-roadmap.png)
+
 - **Understand the business value of what you are working on**
 - **Fail fast, and piviot quickly when necessary**
 
