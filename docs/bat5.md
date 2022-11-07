@@ -8,10 +8,10 @@
 - **Fail fast, and piviot quickly when necessary**
 
 - **Everything as code**
-  - Infrastructure 
-  - Pipeline 
-  - Configuration 
-  - Document 
+    - Infrastructure 
+    - Pipeline 
+    - Configuration 
+    - Document 
   
 - **Automate everything**
   - Infrastructure 
